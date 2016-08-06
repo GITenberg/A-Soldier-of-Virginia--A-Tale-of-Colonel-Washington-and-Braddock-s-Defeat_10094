@@ -1,0 +1,31 @@
+_repo: A-Soldier-of-Virginia--A-Tale-of-Colonel-Washington-and-Braddock-s-Defeat_10094
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Burton Egbert
+    alias: Stevenson, Burton E.
+    birthdate: 1872
+    deathdate: 1962
+    gutenberg_agent_id: '980'
+    url: http://www.gutenberg.org/2009/agents/980
+    wikipedia: http://en.wikipedia.org/wiki/Burton_E._Stevenson
+description: Cover -- Contents.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Braddock''s Campaign, 1755 -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Washington, George, 1732-1799 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'A Soldier of Virginia: A Tale of Colonel Washington and Braddock''s Defeat'
+url: http://www.gutenberg.org/ebooks/10094
